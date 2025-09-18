@@ -1,13 +1,14 @@
 # 🍩 Simpsons API Project
 
-Projeto desenvolvido em **Next.js 15** com **App Router** para consumir a API dos Simpsons, criado como atividade acadêmica.
+Projeto desenvolvido em **Next.js 15** com **App Router** para consumir a API dos Simpsons.
 
 ## 📋 Informações do Projeto
 
-- **Escola:** ETEC Professor Camargo Aranha
-- **Turma:** 3º Desenvolvimento de Sistemas  
-- **Aluno:** João Silva Santos
+- **Escola:** SENAI
+- **Turma:** TDS 2
+- **Aluna:** Rayssa Gonçalves
 - **API Utilizada:** [Sample APIs - Simpsons Characters](https://api.sampleapis.com/simpsons/characters)
+- **Repositório:** [simpson-API](https://github.com/raygoncalvesss/simpson-API)
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -47,9 +48,9 @@ src/
 ### ✅ Páginas Obrigatórias
 
 1. **Home (`/`)** - Informações pessoais e acadêmicas
-   - Nome da turma, escola e aluno
-   - Avatar/foto do aluno
-   - Frase inspiradora
+   - Nome da turma, escola e aluna
+   - Foto da aluna (GitHub Avatar)
+   - Frase inspiradora personalizada
    - **Uso obrigatório do Tailwind CSS**
 
 2. **API Info (`/apiinfo`)** - Documentação completa
