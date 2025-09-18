@@ -149,22 +149,3 @@ npm run build    # Build de produção
 npm run start    # Servidor de produção
 npm run lint     # Verificar código
 ```
-
-## 🚨 Observações Importantes
-
-1. **Tailwind Obrigatório:** Usado principalmente na página Home
-2. **API Limitações:** POST real pode não funcionar (simulado localmente)
-3. **Cache Local:** Dados salvos no localStorage para melhor UX
-4. **Responsividade:** Testado de 320px a 1440px
-5. **Performance:** Otimizações com Next.js 15
-
-## 📞 Suporte
-
-Para dúvidas sobre o projeto, consulte:
-- Documentação do [Next.js](https://nextjs.org/docs)
-- API dos [Simpsons](https://sampleapis.com/)
-- [Tailwind CSS](https://tailwindcss.com/docs)
-
----
-
-**Projeto desenvolvido com 💛 para fins educacionais**
